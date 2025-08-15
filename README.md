@@ -41,6 +41,6 @@ The dataset includes features such as:
 ## 👤 Author
 
 - **Name**: Arshia Estineh  
-- **GitHub**: [@arshiaaestinehh](https://github.com/arshiaaestinehh)  
+- **GitHub**: [@arshiaaestineh](https://github.com/arshiaaestineh)  
 - **Email**: Arshiaestineh2005@icloud.com
 
