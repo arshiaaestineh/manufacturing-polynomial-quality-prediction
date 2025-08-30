@@ -1,3 +1,4 @@
+
 # Manufacturing Data Modeling with Polynomial Regression 🏭📈
 
 This project focuses on using **Polynomial Regression** to analyze and model manufacturing data. It explores how higher-order relationships between variables can help identify trends and improve production process insights.
